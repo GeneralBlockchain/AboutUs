@@ -21,17 +21,13 @@ Our vision is to build a Human-Based Artificial Intelligence, which can solve pr
 <! -- Comment Trial -- >
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>- [Products](#products)</summary>
 <br>
-This is how you dropdown.
+    - [Microwork App](#microwork-app)
+    - [Image Annotation](#image-annotation)
+    - [Dataset Studio](#dataset-studio)
+    - [Machine Learning Service](#machine-learning-service)
 <br><br>
-<pre>
-&lt;details&gt;
-&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
-&lt;br&gt;
-This is how you dropdown.
-&lt;&#47;details&gt;
-</pre>
 </details>
 
 ---
