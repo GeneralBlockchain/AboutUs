@@ -21,7 +21,6 @@ Our vision is to build a Human-Based Artificial Intelligence, which can solve pr
 - [About Us](#about-us)
 
 ## Products
-
 ---
 
 Our first product is building an AI ecosystem which collects, annotates, and trains machine learning models to recognize any object in images or other data.
