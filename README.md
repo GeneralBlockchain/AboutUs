@@ -26,6 +26,8 @@ Our first product is building an AI ecosystem which collects, annotates, and tra
 
 ![An AI Ecosystem](https://user-images.githubusercontent.com/66736646/84388509-8cd13400-ac16-11ea-88d5-f53a3d97623a.png)
 
+---
+
 ### Microwork App
 
 Microwork is our globally distributed task system where anyone with a smart phone can earn money with simple tasks like taking a photo. Users find tasks and earn Ether, which can then be converted to the local currency. An example task would be, say, take photos of dogs. These images are then given to our image annotation team which distinguishes what is in the photo so that we can build a strong dataset. In this way we’ve created “in the wild” data, real data found in the world, as a basis for training our machine learning models.
