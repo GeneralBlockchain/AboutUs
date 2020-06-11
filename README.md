@@ -54,6 +54,7 @@ Microwork is our globally distributed task system where anyone with a smart phon
 
 ---
 
+<br><br>
 ### Image Annotation
 
 Providing image annotation services to the Artificial Intelligence industry since 2015. Our image annotation platform, our tools, and our talented cloud workers with years of experience ensure your image annotation projects are efficiently implemented at scale. Choosing the right annotation to invest in at the right time is critical to quickly train models at low cost. Combine expensive domain experts such as yourself with talented and experienced cloud workers, working in multi-step workflows, to get the highest quality annotations and the most affordable cost.
