@@ -36,4 +36,4 @@ Microwork is our globally distributed task system where anyone with a smart phon
 
 <img src="https://user-images.githubusercontent.com/66736646/84391138-61504880-ac1a-11ea-8136-eb4dae145105.png" alt="start earning" align="centre" width="250" />
 
-![get paid](https://user-images.githubusercontent.com/66736646/84397784-e9395100-ac20-11ea-88cb-32a3529e0bd6.png)
+<img src="https://user-images.githubusercontent.com/66736646/84397784-e9395100-ac20-11ea-88cb-32a3529e0bd6.png" alt="get paid" align="right" width="250" />
