@@ -45,5 +45,5 @@ Microwork is our globally distributed task system where anyone with a smart phon
 
 <button class="button button2">Blue</button>
 
-<a href="https://www.microwork.app/" class="button big">Visit Microwork</a>
+<a href="https://www.microwork.app/" class="button big", background-color: white, color: black, border: 2px solid #008CBA>Visit Microwork</a>
 
