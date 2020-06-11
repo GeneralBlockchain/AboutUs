@@ -5,7 +5,8 @@
 ## Creating Human-Machine Artificial Intelligence
 
 Our vision is to build a programmable Human-Based Artificial Intelligence, able to solve problems that neither humans nor computers can solve alone. The first application of this technology is a full-stack Computer Vision product which collects, annotates and creates datasets which allow AI to recognize any objects in unseen images or videos. Access our AI services <a href="https://www.generalblockchain.com/">here</a>, today.
-
+  
+  
 ## Table of Contents
 
 - [Products](#products)
