@@ -42,7 +42,7 @@ Microwork is our globally distributed task system where anyone with a smart phon
 <br><br>
 -->
 ---
-<div style="text-align:center">
+<div align="center">
 <img src="https://user-images.githubusercontent.com/66736646/84403317-636cd400-ac27-11ea-94dc-bfc85812f3d2.png" alt="1" align="left" width="204.51" />
 
 <img src="https://user-images.githubusercontent.com/66736646/84403327-65369780-ac27-11ea-922e-bebd8d180581.png" alt="2" align="left" width="204.51" />
@@ -51,5 +51,6 @@ Microwork is our globally distributed task system where anyone with a smart phon
 
 <img src="https://user-images.githubusercontent.com/66736646/84403341-68ca1e80-ac27-11ea-8cc4-8987db2ccee3.png" alt="4" align="left" width="204.51" />
 </div>
+
 ---
 
