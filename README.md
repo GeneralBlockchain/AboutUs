@@ -1,5 +1,7 @@
-# <a href="https://www.generalblockchain.com/">GENERAL BLOCKCHAIN</a>
 <img src="https://user-images.githubusercontent.com/66736646/84417602-b484c400-ac37-11ea-88eb-652c98061797.png" alt="GB500" align="right" width="250" />
+
+# <a href="https://www.generalblockchain.com/">GENERAL BLOCKCHAIN</a>
+
 ## Creating Human-Machine Artificial Intelligence
 
 Our vision is to build a programmable Human-Based Artificial Intelligence, able to solve problems that neither humans nor computers can solve alone. The first application of this technology is a full-stack Computer Vision product which collects, annotates and creates datasets which allow AI to recognize any objects in unseen images or videos. Access our AI services <a href="https://www.generalblockchain.com/">here</a>, today.
