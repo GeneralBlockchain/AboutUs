@@ -72,10 +72,11 @@ Masks are highly accurate and beautiful and are made by skilled professionals. B
 
 Bounding Boxes are quick and cheap to make, especially with experience. Labelling boxes sometimes requires domain expertise, we have experts in house, or bring your own.
 
-
-
 ---
 
+![Imageannotation.ai](https://user-images.githubusercontent.com/33668152/84964783-d5b14d00-b12e-11ea-8649-23262e75e55b.png)
+
+---
 
 
 Updating...
