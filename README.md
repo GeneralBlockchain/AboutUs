@@ -37,6 +37,7 @@ Our first product is building an AI ecosystem which collects, annotates, and tra
 Microwork is our globally distributed task system where anyone with a smart phone can earn money with simple tasks like taking a photo. Users find tasks and earn Ether, which can then be converted to the local currency. An example task would be, say, take photos of dogs. These images are then given to our image annotation team which distinguishes what is in the photo so that we can build a strong dataset. In this way we’ve created “in the wild” data, real data found in the world, as a basis for training our machine learning models.
 
 <a href="https://www.microwork.app/" class="button big">Visit Microwork</a>
+
 <!---
 <img src="https://user-images.githubusercontent.com/66736646/84399001-70d38f80-ac22-11ea-9172-3f5ac972e0d5.png" alt="microwork" align="left" width="280" />
 -->
@@ -74,7 +75,7 @@ Bounding Boxes are quick and cheap to make, especially with experience. Labellin
 
 ---
 
-![Imageannotation.ai](https://user-images.githubusercontent.com/33668152/84964783-d5b14d00-b12e-11ea-8649-23262e75e55b.png)
+<a href="https://www.imageannotation.ai/">![Imageannotation.ai](https://user-images.githubusercontent.com/33668152/84964783-d5b14d00-b12e-11ea-8649-23262e75e55b.png)</a>
 
 ---
 
