@@ -125,7 +125,15 @@ We are excited to be able to contribute our human-machine artifical intelligence
 
 ---
 
+### Fashion
 
+Fashion is an interesting and excellent example of annotating images for machine learning. Our human annotaters draw bounding boxes around the objects in question, and also describe their type. We create classes and attributes out of these descriptions, including things like style, color, and material. These attributes are things that humans can easily notice but machines cannot yet. So, we create the opportunity for superior AI with fashion as well.
+
+---
+
+![fashion](https://user-images.githubusercontent.com/33668152/84968099-86bbe580-b137-11ea-815d-4c6f7c8fa229.jpg)
+
+---
 
 
 
