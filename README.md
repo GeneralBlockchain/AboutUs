@@ -105,7 +105,7 @@ Using our advanced, hybrid human-computer intelligence services ecosystem, we co
 
 ---
 
-![ML Service](https://user-images.githubusercontent.com/33668152/84965975-18c0ef80-b132-11ea-9421-4f87cd05425d.gif)
+![ml service](https://user-images.githubusercontent.com/33668152/84966380-380c4c80-b133-11ea-8ed9-c47be811443e.jpg)
 
 ---
 
