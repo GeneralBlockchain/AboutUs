@@ -97,5 +97,17 @@ Dataset Studio creates large and diverse annotated image datasets in order to ac
 
 ---
 
+## Machine Learning Service
+
+Using our advanced, hybrid human-computer intelligence services ecosystem, we combine all of our assets to create superior, accurate machine learning models. We can demonstrate and visualize the specific accuracies and learnings of the model as it is trained, in our web console. You don’t need to worry about how to train a model because we can do it for you. You can hire us to do the entire process or just the part you need. Feel free to contact us for a free quote.
+
+<a href="https://discord.com/invite/22HVPEU" class="button big">Contact a Representative</a>
+
+---
+
+![ML Service](https://user-images.githubusercontent.com/33668152/84965975-18c0ef80-b132-11ea-9421-4f87cd05425d.gif)
+
+---
+
 Updating...
 
