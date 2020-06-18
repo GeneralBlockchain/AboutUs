@@ -168,7 +168,7 @@ Today, the human intellectual services provided by our platform supports our pro
 
 ## About Us
 
-##### Talk to us on Discord
+#### Talk to us on Discord
 
 Discord is the best way to talk to us. You can chat in real time with our staff members about any questions you might have, or just to discuss how you’d like to use our products in your next project.
 
