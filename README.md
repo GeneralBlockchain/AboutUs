@@ -60,8 +60,20 @@ Providing image annotation services to the Artificial Intelligence industry sinc
 
 <a href="https://www.imageannotation.ai/" class="button big">Visit ImageAnnotation.ai</a>
 
-* Semantic Segmentation
-### Semantic Segmentation
+#### Semantic Segmentation
+
+Every pixel in an image is painstakingly masked by our in house team of talented human cloud workers. Combine their skills with your knowledge to make the most valuable data.
+
+#### Instance Segmentation
+
+Masks are highly accurate and beautiful and are made by skilled professionals. Bounding Boxes can be upgraded to Masks only if required, make only the Masks you need.
+
+#### Bounding Boxes
+
+Bounding Boxes are quick and cheap to make, especially with experience. Labelling boxes sometimes requires domain expertise, we have experts in house, or bring your own.
+
+
+
 ---
 
 
