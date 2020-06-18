@@ -24,6 +24,8 @@ Our vision is to build a programmable Human-Based Artificial Intelligence, able 
 - [Links and References](#links-and-references)
 - [About Us](#about-us)
 
+---
+
 ## Products
 
 Our first product is building an AI ecosystem which collects, annotates, and trains machine learning models to recognize any object in images or other data.
