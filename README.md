@@ -32,7 +32,7 @@ Our first product is building an AI ecosystem which collects, annotates, and tra
 
 ---
 
-### Microwork App
+## Microwork App
 
 Microwork is our globally distributed task system where anyone with a smart phone can earn money with simple tasks like taking a photo. Users find tasks and earn Ether, which can then be converted to the local currency. An example task would be, say, take photos of dogs. These images are then given to our image annotation team which distinguishes what is in the photo so that we can build a strong dataset. In this way we’ve created “in the wild” data, real data found in the world, as a basis for training our machine learning models.
 
@@ -54,21 +54,21 @@ Microwork is our globally distributed task system where anyone with a smart phon
 
 ---
 
-### Image Annotation
+## Image Annotation
 
 Providing image annotation services to the Artificial Intelligence industry since 2015. Our image annotation platform, our tools, and our talented cloud workers with years of experience ensure your image annotation projects are efficiently implemented at scale. Choosing the right annotation to invest in at the right time is critical to quickly train models at low cost. Combine expensive domain experts such as yourself with talented and experienced cloud workers, working in multi-step workflows, to get the highest quality annotations and the most affordable cost.
 
 <a href="https://www.imageannotation.ai/" class="button big">Visit ImageAnnotation.ai</a>
 
-#### Semantic Segmentation
+### Semantic Segmentation
 
 Every pixel in an image is painstakingly masked by our in house team of talented human cloud workers. Combine their skills with your knowledge to make the most valuable data.
 
-#### Instance Segmentation
+### Instance Segmentation
 
 Masks are highly accurate and beautiful and are made by skilled professionals. Bounding Boxes can be upgraded to Masks only if required, make only the Masks you need.
 
-#### Bounding Boxes
+### Bounding Boxes
 
 Bounding Boxes are quick and cheap to make, especially with experience. Labelling boxes sometimes requires domain expertise, we have experts in house, or bring your own.
 
@@ -78,6 +78,9 @@ Bounding Boxes are quick and cheap to make, especially with experience. Labellin
 
 ---
 
+## Dataset Studio
+
+---
 
 Updating...
 
