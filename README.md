@@ -87,6 +87,10 @@ Bounding Boxes are quick and cheap to make, especially with experience. Labellin
 
 ## Dataset Studio
 
+Dataset Studio creates large and diverse annotated image datasets in order to accelerate AI development, machine learning, and business intelligence. We created Dataset Studio in order to show our datasets live in a web browser to our clients, customers, and partners. We created ways to filter by dataset, classes, and attributes, which are facets of images. For example, a dataset can be fashion, a class would be dresses, and attribute might be the type of dress, hem line, or style. Dataset Studio is live, and you can view our annotated datasets in your browser now.
+
+<a href="https://www.imageannotation.ai/" class="button big">Visit DatasetStudio.com</a>
+
 ---
 
 Updating...
