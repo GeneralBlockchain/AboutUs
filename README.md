@@ -18,7 +18,7 @@ Our vision is to build a programmable Human-Based Artificial Intelligence, able 
 - [Use Cases](#use-cases)
     - [COVID-19](#covid-19)
     - [Fasion](#fashion)
-    - [Brands](#brands)
+    - [Logos](#logos)
     - [Agriculture](#agriculture)
 - [Company](#company)
 - [Links and References](#links-and-references)
@@ -123,6 +123,8 @@ We are excited to be able to contribute our human-machine artifical intelligence
 
 ![covid](https://user-images.githubusercontent.com/33668152/84968104-891e3f80-b137-11ea-8072-a68d12067bba.jpg)
 
+---
+
 ### Fashion
 
 Fashion is an interesting and excellent example of annotating images for machine learning. Our human annotaters draw bounding boxes around the objects in question, and also describe their type. We create classes and attributes out of these descriptions, including things like style, color, and material. These attributes are things that humans can easily notice but machines cannot yet. So, we create the opportunity for superior AI with fashion as well.
@@ -133,8 +135,15 @@ Fashion is an interesting and excellent example of annotating images for machine
 
 ---
 
+### Logos
 
+Our logo datasets are perfect for retail tasks like managing inventory and price checking. You can train models to recognize logos on store shelves, or streamline inventory management processes. Using the logo datasets, you can also create AI programs to automate inventory tracking based on the logos of thousands of different brands, and track distribution of products on shelves, check for shelf gaps, help customers find items, and more.
 
+---
+
+![logos](https://user-images.githubusercontent.com/33668152/84968090-83285e80-b137-11ea-9fb3-3a051d0e2272.jpg)
+
+---
 
 
 
