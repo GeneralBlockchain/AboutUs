@@ -21,7 +21,6 @@ Our vision is to build a programmable Human-Based Artificial Intelligence, able 
     - [Logos](#logos)
     - [Agriculture](#agriculture)
 - [Company](#company)
-- [Links and References](#links-and-references)
 - [About Us](#about-us)
 
 ---
@@ -145,34 +144,35 @@ Our logo datasets are perfect for retail tasks like managing inventory and price
 
 ---
 
+### Agriculture
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+We’ve also collected a huge variety of images in the agricultural space, resulting in a rich dataset. Domain experts in agricultural fields are able to recognise the most challenging objects in our images such as insects, diseases and visually similar species. With us, you can manage your own Ag-Tech datasets and annotate them yourself or outsource the work to our domain experts and experienced project managers.
 
 ---
 
-Updating...
+![agriculture](https://user-images.githubusercontent.com/33668152/84968107-8b809980-b137-11ea-8180-0bf1ab90780f.png)
+
+---
+
+## Company
+
+Our Founder, Andy Gough, started the project back in 2014 at The Blockchain University, Mountain View, California. He was thinking a lot about the future of work and how bitcoin could impact it, when he discovered ethereum and realized that smart contracts could be used to incentivize a motivated group to behave according to a pre-determined deign.
+
+With the right interface and incentive system, motivated people could answer questions, or solve problems that no other computer could solve. By making these human intelligences available in a similar way to a machine application interface, the human and their intelligence can provide computations. This human computer is particularly good at training AI to recognize things, precisely because humans can solve these problems easily and machines cannot.
+
+Today, the human intellectual services provided by our platform supports our products at each stage of AI development, from collecting data with our mobile apps, annotating data with our hybrid-ai or human workflows, to crafting important datasets available to the entire blockchain community, and finally to model training services and consulting.
+
+<a href="https://youtu.be/t087MJ7Mmyo">Presentation from Blockchain University</a>
+
+---
+
+## About Us
+
+##### Talk to us on Discord
+
+Discord is the best way to talk to us. You can chat in real time with our staff members about any questions you might have, or just to discuss how you’d like to use our products in your next project.
+
+<a href="https://discord.com/invite/22HVPEU">Chat Now</a>
+
+---
 
