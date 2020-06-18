@@ -50,7 +50,7 @@ Microwork is our globally distributed task system where anyone with a smart phon
 
 ---
 
-![final_app](https://user-images.githubusercontent.com/66736646/84415127-21965a80-ac34-11ea-9cb8-d97bc83219c8.png)
+<a href="https://www.microwork.app/">![final_app](https://user-images.githubusercontent.com/66736646/84415127-21965a80-ac34-11ea-9cb8-d97bc83219c8.png)</a>
 
 ---
 
