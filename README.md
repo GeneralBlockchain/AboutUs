@@ -112,13 +112,18 @@ Using our advanced, hybrid human-computer intelligence services ecosystem, we co
 ---
 
 ## Use Cases
+
 ---
+
 ### COVID-19
 
 We are excited to be able to contribute our human-machine artifical intelligence system to helping understand and diagnose the current global pandemic, the coronavirus, COVID-19. We are currently using human annotation to build a strong dataset of X-Rays and CT Scans that can be used to create highly accurate machine learning models.
 
+---
 
+![covid](https://user-images.githubusercontent.com/33668152/84968104-891e3f80-b137-11ea-8072-a68d12067bba.jpg)
 
+---
 
 
 
