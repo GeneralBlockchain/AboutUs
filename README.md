@@ -61,6 +61,12 @@ Providing image annotation services to the Artificial Intelligence industry sinc
 
 <a href="https://www.imageannotation.ai/" class="button big">Visit ImageAnnotation.ai</a>
 
+---
+
+<a href="https://www.imageannotation.ai/">![Imageannotation.ai](https://user-images.githubusercontent.com/33668152/84964783-d5b14d00-b12e-11ea-8649-23262e75e55b.png)</a>
+
+---
+
 ### Semantic Segmentation
 
 Every pixel in an image is painstakingly masked by our in house team of talented human cloud workers. Combine their skills with your knowledge to make the most valuable data.
@@ -73,15 +79,9 @@ Masks are highly accurate and beautiful and are made by skilled professionals. B
 
 Bounding Boxes are quick and cheap to make, especially with experience. Labelling boxes sometimes requires domain expertise, we have experts in house, or bring your own.
 
----
-
-<a href="https://www.imageannotation.ai/">![Imageannotation.ai](https://user-images.githubusercontent.com/33668152/84964783-d5b14d00-b12e-11ea-8649-23262e75e55b.png)</a>
-
----
-
 ### Our Platform
 
-<img width="800" alt="platform" src="https://user-images.githubusercontent.com/33668152/84965288-51f86000-b130-11ea-8879-d94d0624cdf0.png">
+![platform](https://user-images.githubusercontent.com/33668152/84965288-51f86000-b130-11ea-8879-d94d0624cdf0.png)
 
 ---
 
