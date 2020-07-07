@@ -176,4 +176,4 @@ Discord is the best way to talk to us. You can chat in real time with our staff 
 
 ---
 
-[Go to Start](#creating-human-machine-artificial-intelligence)
+# [Go to Start](#creating-human-machine-artificial-intelligence)
