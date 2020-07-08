@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66736646/84417602-b484c400-ac37-11ea-88eb-652c98061797.png" alt="GB500" align="left" width="250" />
+<img src="https://user-images.githubusercontent.com/66736646/84417602-b484c400-ac37-11ea-88eb-652c98061797.png" alt="GB500" align="left" width="280" />
 
 # <a href="https://www.generalblockchain.com/">GENERAL BLOCKCHAIN</a>
 
