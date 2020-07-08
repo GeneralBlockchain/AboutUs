@@ -125,7 +125,7 @@ We are excited to be able to contribute our human-machine artifical intelligence
 
 ---
 
-![covid](https://user-images.githubusercontent.com/33668152/84968104-891e3f80-b137-11ea-8072-a68d12067bba.jpg)
+![covid](https://user-images.githubusercontent.com/66736646/86943062-c474c280-c167-11ea-90b9-479b3be139f1.png)
 
 ---
 
