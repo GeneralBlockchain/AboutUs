@@ -21,7 +21,7 @@ Our vision is to build a programmable Human-Based Artificial Intelligence, able 
     - [Logos](#logos)
     - [Agriculture](#agriculture)
 - [Company](#company)
-- [About Us](#about-us)
+- [Contact Us](#contact-us)
 
 ---
 
@@ -166,13 +166,9 @@ Today, the human intellectual services provided by our platform supports our pro
 
 ---
 
-## About Us
+## Contact Us
 
-#### Talk to us on Discord
-
-Discord is the best way to talk to us. You can chat in real time with our staff members about any questions you might have, or just to discuss how you’d like to use our products in your next project.
-
-<a href="https://discord.com/invite/22HVPEU">Chat Now</a>
+* Email: contact@generalblockchain.com
 
 ---
 
