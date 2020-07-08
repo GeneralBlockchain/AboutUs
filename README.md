@@ -87,7 +87,7 @@ Bounding Boxes are quick and cheap to make, especially with experience. Labellin
 
 ### Our Platform
 
-![platform](https://user-images.githubusercontent.com/33668152/84965288-51f86000-b130-11ea-8879-d94d0624cdf0.png)
+![platform](https://user-images.githubusercontent.com/66736646/86946417-29321c00-c16c-11ea-98a2-398e91ef869e.png)
 
 ---
 
