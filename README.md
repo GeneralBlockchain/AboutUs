@@ -178,4 +178,4 @@ Today, the human intellectual services provided by our platform supports our pro
 
 ---
 
-# [Go to Start](#creating-human-machine-artificial-intelligence)
+# [Go to Start](#about-us)
